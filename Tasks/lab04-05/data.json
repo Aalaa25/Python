@@ -1,0 +1,47 @@
+[
+    {
+        "first_name": "alaa",
+        "last_name": "khaled",
+        "email": "alaa@gmail.com",
+        "password": "Alaa@25",
+        "phone": "01554528058",
+        "projects": [
+            {
+                "name": "c",
+                "description": "oop",
+                "target": 120000,
+                "date": "2023-4-5"
+            },
+            {
+                "name": "ll",
+                "description": "aa",
+                "target": 7899999,
+                "date": "2023-4-5"
+            },
+            {
+                "name": "pandas",
+                "description": "python",
+                "target": 1290000,
+                "date": "2023-05-06"
+            },
+            {
+                "name": "oouy",
+                "description": "tfyhjii",
+                "target": 689866,
+                "date": "2023-04-06"
+            },
+            {
+                "name": "kllll",
+                "description": "oooooo",
+                "target": 230000,
+                "date": "2023-04-05"
+            },
+            {
+                "name": "Python",
+                "description": "pandas",
+                "target": 120000,
+                "date": "2023-05-06"
+            }
+        ]
+    }
+]
